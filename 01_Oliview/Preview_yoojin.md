@@ -8,8 +8,8 @@
 </br>
 
 > ### 리뷰 검색 및 목록 조회
-
-![검색화면](01_Oliview/img/01_search.gif)
+![리뷰검색jpg](img/01_리뷰검색.jpg)
+![리뷰검색gif](img/01_리뷰검색.gif)
 
 </br>
 </br>
