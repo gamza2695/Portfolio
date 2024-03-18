@@ -9,6 +9,7 @@
 
 > ### 리뷰 검색 및 목록 조회
 
+![검색화면](01_Oliview/img/01_search.gif)
 
 </br>
 </br>
