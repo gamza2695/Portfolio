@@ -2,7 +2,7 @@
 
 </br>
 
-> ### 🌱 Oliview : 맛집 리뷰 및 커뮤니티 사이트(2023.09 ~ 2023.11)
+> ### 🌱 Oliview : 맛집 리뷰 및 커뮤니티 사이트(2023.09.20 - 2023.11.17)
 
 [![Oliview_jpg](01_Oliview/img/Oliview.jpg)](https://github.com/team-farmers/Oliview)
 
@@ -11,7 +11,7 @@
 
 </br>
 
-> ### 🍯 conBee : 편의점 비즈니스 ERP + 그룹웨어 시스템(2023.11 ~ 2023.12)
+> ### 🍯 conBee : 편의점 비즈니스 ERP + 그룹웨어 통합 솔루션(23.11.21 - 23.12.26)
 
 [![conBee_jpg](02_conBee/img/conBee.jpg)](https://github.com/Bee-Keepers/conbee)
 
