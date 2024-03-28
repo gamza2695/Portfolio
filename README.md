@@ -6,8 +6,8 @@
 
 [![Oliview_jpg](01_Oliview/img/Oliview.jpg)](https://github.com/team-farmers/Oliview)
 
-- Oliview github [🔗바로가기](https://github.com/team-farmers/Oliview)
-- 담당 기능 Review [🔗바로가기](https://github.com/gamza2695/Portfolio/blob/main/01_Oliview/Preview_yoojin.md)
+- 프로젝트 소개 [🔗바로가기](https://github.com/team-farmers/Oliview)
+- 담당기능 소개 [🔗바로가기](https://github.com/gamza2695/Portfolio/blob/main/01_Oliview/Preview_yoojin.md)
 
 </br>
 
@@ -16,8 +16,8 @@
 [![conBee_jpg](02_conBee/img/conBee.jpg)](https://github.com/Bee-Keepers/conbee)
 
 
-- conBee github [🔗바로가기](https://github.com/Bee-Keepers/conbee)
-- 담당 기능 Review [🔗바로가기](https://github.com/gamza2695/Portfolio/blob/main/02_conBee/Preview_yoojin.md)
+- 프로젝트 소개 [🔗바로가기](https://github.com/Bee-Keepers/conbee)
+- 담당기능 소개 [🔗바로가기](https://github.com/gamza2695/Portfolio/blob/main/02_conBee/Preview_yoojin.md)
 
 
 </br>
