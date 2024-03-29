@@ -1,4 +1,6 @@
 > # conBee 프로젝트 담당기능 - 전자결재 기안파트📝(정유진)
+ 
+ - [📝 프로젝트 진행 일지(Notion)](https://www.notion.so/1fde71b3c17a45eeaaeb65518bc2141c?pvs=4)
  - 기안문 작성
  - 임시저장함
  - 결재요청함
